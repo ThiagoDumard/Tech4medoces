@@ -1,0 +1,28 @@
+body{ /* configuração geral */
+    background-image: linear-gradient(to bottom, pink, white);
+    background-attachment: fixed;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    margin: 3%;
+    border: 3px;
+}
+.titulo {
+    text-align: center;
+}
+.conteudo{
+    font-size: 25px;
+    text-align: center;
+}
+.tabela { /* cor e fonte da tabela*/
+    color: black;
+    font-size: 25px;
+}
+.primeiro{  /* cor da cabeça da tabela*/
+    color: orangered;
+}
+.segundo{
+    color: green;
+}
+.terceiro{
+    color: red;
+}
